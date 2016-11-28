@@ -1,0 +1,15 @@
+[
+	{
+		"title": "Sample Blog",
+		"url": "2016/html/11/20161124.html",
+		"date": "2016-11-24",
+		"tag": "opinion"
+	},
+
+	{
+		"title": "Another Post",
+		"url": "2016/html/11/20161125.html",
+		"date": "2016-11-25",
+		"tag": "opinion"
+	}
+]
