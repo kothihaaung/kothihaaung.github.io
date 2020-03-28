@@ -182,8 +182,13 @@ hotlines:
     ph:
       - text: 0166-25-9848
         value: 0166259848
-    opening-hour: 
-      - 8:45 - 21:00 (Weekdays and Holidays)
+        opening-hour: 
+          en:
+            - 8:45 - 21:00 (Weekdays and Holidays)
+          mm:
+            - 8:45 - 21:00 (Weekdays and Holidays)
+          ja:
+            - 8:45 - 21:00 (Weekdays and Holidays)
   - name: 
       en: Suspected infection
       mm:
@@ -195,9 +200,16 @@ hotlines:
     ph:
       - text: 0138-32-1547
         value: 0138321547
-    opening-hour: 
-      - 8:45 - 20:00 (Weekdays)
-        8:45 - 17:30 (Holidays)
+        opening-hour:
+          en:
+            - 8:45 - 20:00 (Weekdays)
+            - 8:45 - 17:30 (Holidays)
+          mm:
+            - 8:45 - 20:00 (Weekdays)
+            - 8:45 - 17:30 (Holidays)
+          ja:
+            - 8:45 - 20:00 (Weekdays)
+            - 8:45 - 17:30 (Holidays)
   - name: 
       en: Suspected infection
       mm:
@@ -209,8 +221,13 @@ hotlines:
     ph:
       - text: 0134-22-3110
         value: 0134223110
-    opening-hour: 
-      - 8:50 - 17:20 (Weekdays)
+        opening-hour: 
+          en:
+            - 8:50 - 17:20 (Weekdays)
+          mm:
+            - 8:50 - 17:20 (Weekdays)
+          ja:
+            - 8:50 - 17:20 (Weekdays)
   - name: 
       en: Those who have difficulty consulting by phone 
       mm:
