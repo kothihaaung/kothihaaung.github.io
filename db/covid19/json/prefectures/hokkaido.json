@@ -1,0 +1,301 @@
+{
+    "id": "hokkaido",
+    "name": {
+      "en": "Hokkaido",
+      "mm": "ဟိုကိုင်းဒိုး",
+      "ja": "北海道"
+    },
+    "hotlines": [
+      {
+        "name": {
+          "en": "Call Center Information for Foreign Tourists",
+          "mm": null,
+          "ja": "外国人旅行者向けコールセンターのお知らせ"
+        },
+        "title": {
+          "en": "Japan National Tourism Organization (JNTO)",
+          "mm": null,
+          "ja": "日本政府観光局（ＪＮＴＯ）"
+        },
+        "ph": [
+          {
+            "text": "050-3816-2787",
+            "value": "05038162787"
+          }
+        ]
+      },
+      {
+        "name": {
+          "en": "General consultation on infectious diseases",
+          "mm": null,
+          "ja": null
+        },
+        "title": {
+          "en": "Ministry of Health, Labor and Welfare telephone consultation counter",
+          "mm": null,
+          "ja": "厚生労働省電話相談窓口"
+        },
+        "ph": [
+          {
+            "text": "0120-565653 (Freewheel)",
+            "value": 21162923
+          }
+        ],
+        "opening-hour": [
+          "9:00 - 21:00 (Weekends and Holidays)"
+        ]
+      },
+      {
+        "name": {
+          "en": "General consultation on infectious diseases",
+          "mm": null,
+          "ja": null
+        },
+        "title": {
+          "en": "Hokkaido Health and Welfare Department Health and Safety Bureau Local Health Section",
+          "mm": null,
+          "ja": "北海道保健福祉部 健康安全局地域保健課"
+        },
+        "ph": [
+          {
+            "text": "011-204-5020",
+            "value": 19417616
+          }
+        ],
+        "opening-hour": [
+          "24 hours"
+        ]
+      },
+      {
+        "name": {
+          "en": "General consultation on infectious diseases",
+          "mm": null,
+          "ja": null
+        },
+        "title": {
+          "en": "Sapporo City Public Health Center (New coronavirus general consultation desk)",
+          "mm": null,
+          "ja": "札幌市保健所（新型コロナウイルス一般相談窓口）"
+        },
+        "ph": [
+          {
+            "text": "011-632-4567",
+            "value": 20556151
+          }
+        ],
+        "opening-hour": [
+          "9:00 - 21:00 (Weekends and Holidays)"
+        ]
+      },
+      {
+        "name": {
+          "en": "General consultation on infectious diseases",
+          "mm": null,
+          "ja": null
+        },
+        "title": {
+          "en": "Asahikawa City Health Center",
+          "mm": null,
+          "ja": "旭川市保健所"
+        },
+        "ph": [
+          {
+            "text": "0166-26-2397",
+            "value": "0166262397"
+          }
+        ],
+        "opening-hour": [
+          "8:45 - 17:15 (Weekdays)"
+        ]
+      },
+      {
+        "name": {
+          "en": "General consultation on infectious diseases",
+          "mm": null,
+          "ja": null
+        },
+        "title": {
+          "en": "Municipal Hakodate Health Center",
+          "mm": null,
+          "ja": "市立函館保健所"
+        },
+        "ph": [
+          {
+            "text": "0138-32-1547",
+            "value": "0138321547"
+          }
+        ],
+        "opening-hour": [
+          "8:45 - 20:00 (Weekdays) 8:45 - 17:30 (Saturdays)"
+        ]
+      },
+      {
+        "name": {
+          "en": "General consultation on infectious diseases",
+          "mm": null,
+          "ja": null
+        },
+        "title": {
+          "en": "Otaru City Health Center",
+          "mm": null,
+          "ja": "小樽市保健所"
+        },
+        "ph": [
+          {
+            "text": "0134-22-3110",
+            "value": 24192584
+          }
+        ],
+        "opening-hour": [
+          "8:50 - 17:20 (Weekdays)"
+        ]
+      },
+      {
+        "name": {
+          "en": "Suspected infection",
+          "mm": null,
+          "ja": null
+        },
+        "title": {
+          "en": "Sapporo City Health Center [Consultation consultation] Emergency Relief Center Sapporo",
+          "mm": null,
+          "ja": "札幌市保健所【受診相談】 救急安心センターさっぽろ"
+        },
+        "ph": [
+          {
+            "text": "0134-22-3110",
+            "value": 24192584
+          }
+        ],
+        "opening-hour": [
+          "8:50 - 17:20 (Weekdays)"
+        ]
+      },
+      {
+        "name": {
+          "en": "Suspected infection",
+          "mm": null,
+          "ja": null
+        },
+        "title": {
+          "en": "Local Health Division , Health and Safety Bureau,  Hokkaido Health and Welfare Department",
+          "mm": null,
+          "ja": "北海道保健福祉部   健康安全局地域保健課"
+        },
+        "ph": [
+          {
+            "text": "011-204-5020",
+            "value": 19417616
+          }
+        ],
+        "opening-hour": [
+          "24 hours"
+        ]
+      },
+      {
+        "name": {
+          "en": "Suspected infection",
+          "mm": null,
+          "ja": null
+        },
+        "title": {
+          "en": "Asahikawa City Health Center",
+          "mm": null,
+          "ja": "旭川市保健所"
+        },
+        "ph": [
+          {
+            "text": "0166-25-9848",
+            "value": "0166259848"
+          }
+        ],
+        "opening-hour": [
+          "8:45 - 21:00 (Weekdays and Holidays)"
+        ]
+      },
+      {
+        "name": {
+          "en": "Suspected infection",
+          "mm": null,
+          "ja": null
+        },
+        "title": {
+          "en": "Municipal Hakodate Health Center",
+          "mm": null,
+          "ja": "市立函館保健所"
+        },
+        "ph": [
+          {
+            "text": "0138-32-1547",
+            "value": "0138321547"
+          }
+        ],
+        "opening-hour": [
+          "8:45 - 20:00 (Weekdays) 8:45 - 17:30 (Holidays)"
+        ]
+      },
+      {
+        "name": {
+          "en": "Suspected infection",
+          "mm": null,
+          "ja": null
+        },
+        "title": {
+          "en": "Otaru City Health Center",
+          "mm": null,
+          "ja": "小樽市保健所"
+        },
+        "ph": [
+          {
+            "text": "0134-22-3110",
+            "value": 24192584
+          }
+        ],
+        "opening-hour": [
+          "8:50 - 17:20 (Weekdays)"
+        ]
+      },
+      {
+        "name": {
+          "en": "Those who have difficulty consulting by phone",
+          "mm": null,
+          "ja": "聴覚に障がいのある方を始め、電話でのご相談が難しい方向け連絡先"
+        },
+        "title": {
+          "en": "Ministry of Health, Labor and Welfare",
+          "mm": null,
+          "ja": "厚生労働省"
+        },
+        "fax": [
+          {
+            "text": "03-3595-2756",
+            "value": "0335952756"
+          }
+        ],
+        "email": [
+          "corona-2020@mhlw.go.jp"
+        ]
+      },
+      {
+        "name": {
+          "en": "Those who have difficulty consulting by phone",
+          "mm": null,
+          "ja": "聴覚に障がいのある方を始め、電話でのご相談が難しい方向け連絡先"
+        },
+        "title": {
+          "en": "Local Health Division, Health and Safety Bureau, Ministry of Health and Welfare, Hokkaido",
+          "mm": null,
+          "ja": "北海道保健福祉部健康安全局地域保健課"
+        },
+        "fax": [
+          {
+            "text": "11-232-2013",
+            "value": 112322013
+          }
+        ],
+        "email": [
+          "hofuku.chihokansen@pref.hokkaido.lg.jp"
+        ]
+      }
+    ]
+  }
