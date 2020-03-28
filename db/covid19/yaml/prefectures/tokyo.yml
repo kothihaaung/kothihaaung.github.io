@@ -1,0 +1,29 @@
+id: tokyo
+name: 
+  en: Tokyo
+  mm: တိုကျို
+  ja: 東京
+hotlines:
+  - name: 
+      en: General consultation counter for new coronavirus infections
+      mm:
+      ja: 新型コロナウイルス感染症に関する一般相談窓口
+    title:
+      en: New Corona Call Center
+      mm: 
+      ja: 新型コロナコールセンター
+    ph:
+      - text: 0570-550571
+        value: 0570550571
+        opening-hour:
+          en:
+            - 9:00 - 21:00 (Weekdays and Holidays)
+          mm:
+            - 9:00 - 21:00 (ရုံးဖွင့်ရက်၊ ပိတ်ရက်)
+          ja:
+            - 9:00 - 21:00 (Weekdays and Holidays)
+        lang:
+          - 日本語
+          - English
+          - 中文
+          - 한국어

@@ -15,6 +15,15 @@ hotlines:
     ph:
       - text: 050-3816-2787
         value: 05038162787
+        opening-hour:
+          en:
+            - 24 hours
+          mm:
+            - ၂၄ နာရီ
+          ja: 
+            - 24 hours
+        lang:
+          - English (Multi-Language)
   - name: 
       en: General consultation on infectious diseases
       mm:
@@ -26,8 +35,13 @@ hotlines:
     ph:
       - text: 0120-565653 (Freewheel)
         value: 0120565653
-    opening-hour: 
-      - 9:00 - 21:00 (Weekends and Holidays)
+        opening-hour: 
+          en:
+            - 9:00 - 21:00 (Weekends and Holidays)
+          mm:
+            - 9:00 - 21:00 (ရုံးဖွင့်ရက်၊ ပိတ်ရက်)
+          ja:
+            - 9:00 - 21:00 (Weekends and Holidays)
   - name: 
       en: General consultation on infectious diseases
       mm:
@@ -39,8 +53,13 @@ hotlines:
     ph:
       - text: 011-204-5020
         value: 0112045020
-    opening-hour: 
-      - 24 hours
+        opening-hour: 
+          en:
+            - 24 hours
+          mm:
+            - ၂၄ နာရီ
+          ja: 
+            - 24 hours
   - name: 
       en: General consultation on infectious diseases
       mm:
@@ -52,8 +71,13 @@ hotlines:
     ph:
       - text: 011-632-4567
         value: 0116324567
-    opening-hour: 
-      - 9:00 - 21:00 (Weekends and Holidays)
+        opening-hour: 
+          en:
+            - 9:00 - 21:00 (Weekends and Holidays) 
+          mm:
+            - 9:00 - 21:00 (ရုံးဖွင့်ရက်၊ ပိတ်ရက်)
+          ja:
+            - 9:00 - 21:00 (Weekends and Holidays)
   - name: 
       en: General consultation on infectious diseases
       mm:
@@ -65,8 +89,13 @@ hotlines:
     ph:
       - text: 0166-26-2397
         value: 0166262397
-    opening-hour: 
-      - 8:45 - 17:15 (Weekdays)
+        opening-hour: 
+          en: 
+            - 8:45 - 17:15 (Weekdays)
+          mm: 
+            - 8:45 - 17:15 (ရုံးဖွင့်ရက်)
+          ja: 
+            - 8:45 - 17:15 (Weekdays)
   - name: 
       en: General consultation on infectious diseases
       mm:
@@ -78,9 +107,16 @@ hotlines:
     ph:
       - text: 0138-32-1547
         value: 0138321547
-    opening-hour: 
-      - 8:45 - 20:00 (Weekdays)
-        8:45 - 17:30 (Saturdays)
+        opening-hour: 
+          en:
+            - 8:45 - 20:00 (Weekdays)
+              8:45 - 17:30 (Saturdays)
+          mm:
+            - 8:45 - 20:00 (ရုံးဖွင့်ရက်)
+              8:45 - 17:30 (ရုံးပိတ်ရက်)
+          ja:
+            - 8:45 - 20:00 (Weekdays)
+              8:45 - 17:30 (Saturdays)
   - name: 
       en: General consultation on infectious diseases
       mm:
@@ -92,8 +128,13 @@ hotlines:
     ph:
       - text: 0134-22-3110
         value: 0134223110
-    opening-hour: 
-      - 8:50 - 17:20 (Weekdays)
+        opening-hour: 
+          en:
+            - 8:50 - 17:20 (Weekdays)
+          mm:
+            - 8:50 - 17:20 (Weekdays)
+          ja:
+            - 8:50 - 17:20 (Weekdays)
   - name: 
       en: Suspected infection
       mm:
@@ -105,21 +146,31 @@ hotlines:
     ph:
       - text: 0134-22-3110
         value: 0134223110
-    opening-hour: 
-      - 8:50 - 17:20 (Weekdays)
+        opening-hour: 
+          en:
+            - 8:50 - 17:20 (Weekdays)
+          mm:
+            - 8:50 - 17:20 (Weekdays)
+          ja:
+            - 8:50 - 17:20 (Weekdays)
   - name: 
       en: Suspected infection
       mm:
       ja:
     title:
-      en: Local Health Division , Health and Safety Bureau,  Hokkaido Health and Welfare Department
+      en: Local Health Division, Health and Safety Bureau, Hokkaido Health and Welfare Department
       mm: 
-      ja: 北海道保健福祉部   健康安全局地域保健課
+      ja: 北海道保健福祉部、健康安全局地域保健課
     ph:
       - text: 011-204-5020
         value: 0112045020
-    opening-hour: 
-      - 24 hours
+        opening-hour: 
+          en:
+            - 24 hours
+          mm:
+            - 24 hours
+          ja:
+            - 24 hours
   - name: 
       en: Suspected infection
       mm:
