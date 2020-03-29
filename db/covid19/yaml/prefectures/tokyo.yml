@@ -4,10 +4,7 @@ name:
   mm: တိုကျို
   ja: 東京
 hotlines:
-  - name: 
-      en: General consultation counter for new coronavirus infections
-      mm:
-      ja: 新型コロナウイルス感染症に関する一般相談窓口
+  - category: call-center 
     title:
       en: New Corona Call Center
       mm: 
@@ -21,9 +18,12 @@ hotlines:
           mm:
             - 9:00 - 21:00 (ရုံးဖွင့်ရက်၊ ပိတ်ရက်)
           ja:
-            - 9:00 - 21:00 (Weekdays and Holidays)
+            - 9:00 - 21:00 (平日、週末)
         lang:
           - 日本語
           - English
           - 中文
           - 한국어
+    line:
+      qr-link: https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/coronasodan.images/qr.png
+      link: https://line.me/R/ti/p/%40402wmhas       

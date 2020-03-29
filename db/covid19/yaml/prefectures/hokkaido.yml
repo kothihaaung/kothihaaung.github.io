@@ -4,10 +4,7 @@ name:
   mm: ဟိုကိုင်းဒိုး
   ja: 北海道
 hotlines:
-  - name: 
-      en: Call Center Information for Foreign Tourists 
-      mm:
-      ja: 外国人旅行者向けコールセンターのお知らせ
+  - category: call-center
     title:
       en: Japan National Tourism Organization (JNTO)
       mm: 
@@ -21,13 +18,11 @@ hotlines:
           mm:
             - ၂၄ နာရီ
           ja: 
-            - 24 hours
+            - 24時間
         lang:
-          - English (Multi-Language)
-  - name: 
-      en: General consultation on infectious diseases
-      mm:
-      ja:
+          - English 
+          - (Multi-Language)
+  - category: consultation
     title:
       en: Ministry of Health, Labor and Welfare telephone consultation counter
       mm: 
@@ -41,11 +36,8 @@ hotlines:
           mm:
             - 9:00 - 21:00 (ရုံးဖွင့်ရက်၊ ပိတ်ရက်)
           ja:
-            - 9:00 - 21:00 (Weekends and Holidays)
-  - name: 
-      en: General consultation on infectious diseases
-      mm:
-      ja:
+            - 9:00 - 21:00 (平日、週末)
+  - category: consultation
     title:
       en: Hokkaido Health and Welfare Department Health and Safety Bureau Local Health Section
       mm: 
@@ -59,11 +51,8 @@ hotlines:
           mm:
             - ၂၄ နာရီ
           ja: 
-            - 24 hours
-  - name: 
-      en: General consultation on infectious diseases
-      mm:
-      ja:
+            - 24時間
+  - category: consultation
     title:
       en: Sapporo City Public Health Center (New coronavirus general consultation desk)
       mm: 
@@ -77,11 +66,8 @@ hotlines:
           mm:
             - 9:00 - 21:00 (ရုံးဖွင့်ရက်၊ ပိတ်ရက်)
           ja:
-            - 9:00 - 21:00 (Weekends and Holidays)
-  - name: 
-      en: General consultation on infectious diseases
-      mm:
-      ja:
+            - 9:00 - 21:00 (平日、週末)
+  - category: consultation
     title:
       en: Asahikawa City Health Center
       mm: 
@@ -95,11 +81,8 @@ hotlines:
           mm: 
             - 8:45 - 17:15 (ရုံးဖွင့်ရက်)
           ja: 
-            - 8:45 - 17:15 (Weekdays)
-  - name: 
-      en: General consultation on infectious diseases
-      mm:
-      ja:
+            - 8:45 - 17:15 (平日)
+  - category: consultation
     title:
       en: Municipal Hakodate Health Center
       mm: 
@@ -115,12 +98,9 @@ hotlines:
             - 8:45 - 20:00 (ရုံးဖွင့်ရက်)
               8:45 - 17:30 (ရုံးပိတ်ရက်)
           ja:
-            - 8:45 - 20:00 (Weekdays)
-              8:45 - 17:30 (Saturdays)
-  - name: 
-      en: General consultation on infectious diseases
-      mm:
-      ja:
+            - 8:45 - 20:00 (平日)
+              8:45 - 17:30 (週末)
+  - category: consultation
     title:
       en: Otaru City Health Center
       mm: 
@@ -132,13 +112,10 @@ hotlines:
           en:
             - 8:50 - 17:20 (Weekdays)
           mm:
-            - 8:50 - 17:20 (Weekdays)
+            - 8:50 - 17:20 (ရုံးဖွင့်ရက်)
           ja:
-            - 8:50 - 17:20 (Weekdays)
-  - name: 
-      en: Suspected infection
-      mm:
-      ja:
+            - 8:50 - 17:20 (平日)
+  - category: suspected
     title:
       en: Sapporo City Health Center [Consultation consultation] Emergency Relief Center Sapporo
       mm: 
@@ -150,13 +127,10 @@ hotlines:
           en:
             - 8:50 - 17:20 (Weekdays)
           mm:
-            - 8:50 - 17:20 (Weekdays)
+            - 8:50 - 17:20 (ရုံးဖွင့်ရက်)
           ja:
-            - 8:50 - 17:20 (Weekdays)
-  - name: 
-      en: Suspected infection
-      mm:
-      ja:
+            - 8:50 - 17:20 (平日)
+  - category: suspected
     title:
       en: Local Health Division, Health and Safety Bureau, Hokkaido Health and Welfare Department
       mm: 
@@ -168,13 +142,10 @@ hotlines:
           en:
             - 24 hours
           mm:
-            - 24 hours
+            - ၂၄ နာရီ
           ja:
-            - 24 hours
-  - name: 
-      en: Suspected infection
-      mm:
-      ja:
+            - 24時間
+  - category: suspected
     title:
       en: Asahikawa City Health Center
       mm: 
@@ -186,13 +157,14 @@ hotlines:
           en:
             - 8:45 - 21:00 (Weekdays and Holidays)
           mm:
-            - 8:45 - 21:00 (Weekdays and Holidays)
+            - 8:45 - 21:00 (ရုံးဖွင့်ရက်၊ ပိတ်ရက်)
           ja:
-            - 8:45 - 21:00 (Weekdays and Holidays)
-  - name: 
+            - 8:45 - 21:00 (平日、週末)
+  - category: suspected
+    name: 
       en: Suspected infection
-      mm:
-      ja:
+      mm: ရောဂါလက္ခဏာများထင်ရှားလျှင်
+      ja: 感染の疑い
     title:
       en: Municipal Hakodate Health Center
       mm: 
@@ -205,52 +177,26 @@ hotlines:
             - 8:45 - 20:00 (Weekdays)
             - 8:45 - 17:30 (Holidays)
           mm:
-            - 8:45 - 20:00 (Weekdays)
-            - 8:45 - 17:30 (Holidays)
+            - 8:45 - 20:00 (ရုံးဖွင့်ရက်၊)
+            - 8:45 - 17:30 (ရုံးပိတ်ရက်)
           ja:
-            - 8:45 - 20:00 (Weekdays)
-            - 8:45 - 17:30 (Holidays)
-  - name: 
-      en: Suspected infection
-      mm:
-      ja:
-    title:
-      en: Otaru City Health Center
-      mm: 
-      ja: 小樽市保健所
-    ph:
-      - text: 0134-22-3110
-        value: 0134223110
-        opening-hour: 
-          en:
-            - 8:50 - 17:20 (Weekdays)
-          mm:
-            - 8:50 - 17:20 (Weekdays)
-          ja:
-            - 8:50 - 17:20 (Weekdays)
-  - name: 
-      en: Those who have difficulty consulting by phone 
-      mm:
-      ja: 聴覚に障がいのある方を始め、電話でのご相談が難しい方向け連絡先
+            - 8:45 - 20:00 (平日)
+            - 8:45 - 17:30 (週末)
+  - category: no-phone
     title:
       en: Ministry of Health, Labor and Welfare
       mm: 
       ja: 厚生労働省
     fax:
-      - text: 03-3595-2756
-        value: 0335952756
+      - 03-3595-2756
     email: 
       - corona-2020@mhlw.go.jp
-  - name: 
-      en: Those who have difficulty consulting by phone 
-      mm:
-      ja: 聴覚に障がいのある方を始め、電話でのご相談が難しい方向け連絡先
+  - category: no-phone
     title:
       en: Local Health Division, Health and Safety Bureau, Ministry of Health and Welfare, Hokkaido
       mm: 
       ja: 北海道保健福祉部健康安全局地域保健課
     fax:
-      - text: 11-232-2013
-        value: 112322013
+      - 11-232-2013
     email: 
       - hofuku.chihokansen@pref.hokkaido.lg.jp
