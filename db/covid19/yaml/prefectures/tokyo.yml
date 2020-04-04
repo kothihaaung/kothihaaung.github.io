@@ -1,4 +1,6 @@
 id: tokyo
+reference:
+  - https://stopcovid19.metro.tokyo.lg.jp/en/flow/
 name: 
   en: Tokyo
   mm: တိုကျို
@@ -6,7 +8,7 @@ name:
 hotlines:
   - category: call-center 
     title:
-      en: New Corona Call Center
+      en: Tokyo Novel Coronavirus Call Center
       mm: 
       ja: 新型コロナコールセンター
     ph:

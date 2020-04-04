@@ -1,9 +1,29 @@
 id: hokkaido
+references: 
+  - http://www2.hiecc.or.jp/soudan/upload/file/emg/file1_en_1584325701.pdf
 name: 
   en: Hokkaido
   mm: ဟိုကိုင်းဒိုး
   ja: 北海道
 hotlines:
+  - category: call-center
+    title:
+      en: The Hokkaido Foreign Resident Support Center (Translation Service)
+      mm: 
+      ja: 北海道外国人相談センター
+    ph:
+      - text: 011-200-9595
+        value: 0112009595
+        opening-hour:
+          en:
+            - 09:00 - 12:00, 13:00 - 16:00 (Weekdays)
+          mm:
+            - 09:00 - 12:00, 13:00 - 16:00 (ရုံးဖွင့်ရက်)
+          ja: 
+            - 09:00 - 12:00, 13:00 - 16:00 (平日)
+        lang:
+          - English 
+          - (Multi-Language)
   - category: call-center
     title:
       en: Japan National Tourism Organization (JNTO)
