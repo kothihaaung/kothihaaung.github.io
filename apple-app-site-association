@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7ZZ27XG444.jp.co.rakuten.pasha.en.thiha",
+        "paths": [
+          "/sp/campaign/*",
+          "/receipt/campaign",
+          "/user/notifications",
+          "NOT /campaign/promotion/receipt/*",
+          "/campaign/*"
+        ]
+      }
+    ]
+  }
+}
