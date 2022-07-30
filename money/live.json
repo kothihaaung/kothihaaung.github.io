@@ -21,7 +21,7 @@
     "USDBOB": 6.895334,
     "USDBRL": 5.172804,
     "USDBSD": 1.001477,
-    "USDBTC": 4.191975e-05,
+    "USDBTC": 4.2309581e-05,
     "USDBTN": 79.341965,
     "USDBWP": 12.518703,
     "USDBYN": 2.528384,
@@ -170,5 +170,5 @@
   },
   "source": "USD",
   "success": true,
-  "timestamp": 1659144137711
+  "timestamp": 1659225413816
 }
