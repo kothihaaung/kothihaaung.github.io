@@ -1,0 +1,2126 @@
+[
+  {
+    "kanji": {
+      "kanji": "日本語",
+      "furigana": "にほんご",
+      "meanings": {
+        "en": "Japanese language",
+        "my": "ဂျပန်ဘာသာစကား"
+      },
+      "categories": ["N4", "General"],
+      "partOfSpeech": "Noun",
+      "breakdown": [
+        {
+          "kanji": "日",
+          "furigana": "にち",
+          "meanings": {
+            "en": "sun",
+            "my": "နေ"
+          }
+        },
+        {
+          "kanji": "本",
+          "furigana": "ほん",
+          "meanings": {
+            "en": "origin",
+            "my": "မူလ"
+          }
+        },
+        {
+          "kanji": "語",
+          "furigana": "ご",
+          "meanings": {
+            "en": "language",
+            "my": "ဘာသာစကား"
+          }
+        }
+      ]
+    },
+    "fullSentence": "私は日本語を毎日勉強しています。上手になりたいです！",
+    "components": [
+      {
+        "kanji": "私",
+        "furigana": "わたし",
+        "meanings": {
+          "en": "I",
+          "my": "ကျွန်တော်/ကျွန်မ"
+        }
+      },
+      {
+        "kanji": "は",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "日本語",
+        "furigana": "にちほんご",
+        "meanings": {
+          "en": "Japanese language",
+          "my": "ဂျပန်ဘာသာစကား"
+        }
+      },
+      {
+        "kanji": "を",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "毎日",
+        "furigana": "まいにち",
+        "meanings": {
+          "en": "every day",
+          "my": "နေ့တိုင်း"
+        }
+      },
+      {
+        "kanji": "勉強して",
+        "furigana": "べんきょう",
+        "meanings": {
+          "en": "studying",
+          "my": "သင်ယူနေသည်"
+        }
+      },
+      {
+        "kanji": "います。",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "上手",
+        "furigana": "じょうず",
+        "meanings": {
+          "en": "skillful",
+          "my": "တတ်ကျွမ်းသော"
+        }
+      },
+      {
+        "kanji": "になりたい です！",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      }
+    ]
+  },
+  {
+    "kanji": {
+      "kanji": "学校",
+      "furigana": "がっこう",
+      "meanings": {
+        "en": "school",
+        "my": "ကျောင်း"
+      },
+      "categories": ["N5", "Education"],
+      "partOfSpeech": "Noun",
+      "breakdown": [
+        {
+          "kanji": "学",
+          "furigana": "がく",
+          "meanings": {
+            "en": "learning",
+            "my": "သင်ယူခြင်း"
+          }
+        },
+        {
+          "kanji": "校",
+          "furigana": "こう",
+          "meanings": {
+            "en": "school",
+            "my": "ကျောင်း"
+          }
+        }
+      ]
+    },
+    "fullSentence": "私は毎日学校に行きます。",
+    "components": [
+      {
+        "kanji": "私",
+        "furigana": "わたし",
+        "meanings": {
+          "en": "I",
+          "my": "ကျွန်တော်/ကျွန်မ"
+        }
+      },
+      {
+        "kanji": "は",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "毎日",
+        "furigana": "まいにち",
+        "meanings": {
+          "en": "every day",
+          "my": "တစ်နေ့လျှင်"
+        }
+      },
+      {
+        "kanji": "学校",
+        "furigana": "がっこう",
+        "meanings": {
+          "en": "school",
+          "my": "ကျောင်း"
+        }
+      },
+      {
+        "kanji": "に",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "行きます。",
+        "furigana": "いきます",
+        "meanings": {
+          "en": "go",
+          "my": "သွားသည်"
+        }
+      }
+    ]
+  },
+  {
+    "kanji": {
+      "kanji": "時間",
+      "furigana": "じかん",
+      "meanings": {
+        "en": "time",
+        "my": "အချိန်"
+      },
+      "categories": ["N4", "General"],
+      "partOfSpeech": "Noun",
+      "breakdown": [
+        {
+          "kanji": "時",
+          "furigana": "じ",
+          "meanings": {
+            "en": "time",
+            "my": "အချိန်"
+          }
+        },
+        {
+          "kanji": "間",
+          "furigana": "かん",
+          "meanings": {
+            "en": "interval",
+            "my": "ကြားကာလ"
+          }
+        }
+      ]
+    },
+    "fullSentence": "時間があまりありません。",
+    "components": [
+      {
+        "kanji": "時間",
+        "furigana": "じかん",
+        "meanings": {
+          "en": "time",
+          "my": "အချိန်"
+        }
+      },
+      {
+        "kanji": "が",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "あまり",
+        "furigana": " ",
+        "meanings": {
+          "en": "not much",
+          "my": "သိပ်မများပါ"
+        }
+      },
+      {
+        "kanji": "ありません。",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      }
+    ]
+  },
+  {
+    "kanji": {
+      "kanji": "友達",
+      "furigana": "ともだち",
+      "meanings": {
+        "en": "friend",
+        "my": "သူငယ်ချင်း"
+      },
+      "categories": ["N5", "Social"],
+      "partOfSpeech": "Noun",
+      "breakdown": [
+        {
+          "kanji": "友",
+          "furigana": "とも",
+          "meanings": {
+            "en": "friend",
+            "my": "သူငယ်ချင်း"
+          }
+        },
+        {
+          "kanji": "達",
+          "furigana": "だち",
+          "meanings": {
+            "en": "plural suffix",
+            "my": "များ"
+          }
+        }
+      ]
+    },
+    "fullSentence": "友達と映画を見ました。",
+    "components": [
+      {
+        "kanji": "友達",
+        "furigana": "ともだち",
+        "meanings": {
+          "en": "friend",
+          "my": "သူငယ်ချင်း"
+        }
+      },
+      {
+        "kanji": "と",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "映画",
+        "furigana": "えいが",
+        "meanings": {
+          "en": "movie",
+          "my": "ရုပ်ရှင်"
+        }
+      },
+      {
+        "kanji": "を",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "見ました。",
+        "furigana": "みました",
+        "meanings": {
+          "en": "watched",
+          "my": "ကြည့်ခဲ့သည်"
+        }
+      }
+    ]
+  },
+  {
+    "kanji": {
+      "kanji": "家族",
+      "furigana": "かぞく",
+      "meanings": {
+        "en": "family",
+        "my": "မိသားစု"
+      },
+      "categories": ["N5", "Social"],
+      "partOfSpeech": "Noun",
+      "breakdown": [
+        {
+          "kanji": "家",
+          "furigana": "いえ",
+          "meanings": {
+            "en": "house",
+            "my": "အိမ်"
+          }
+        },
+        {
+          "kanji": "族",
+          "furigana": "ぞく",
+          "meanings": {
+            "en": "group",
+            "my": "အုပ်စု"
+          }
+        }
+      ]
+    },
+    "fullSentence": "家族と晩ご飯を食べます。",
+    "components": [
+      {
+        "kanji": "家族",
+        "furigana": "かぞく",
+        "meanings": {
+          "en": "family",
+          "my": "မိသားစု"
+        }
+      },
+      {
+        "kanji": "と",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "晩ご飯",
+        "furigana": "ばんごはん",
+        "meanings": {
+          "en": "dinner",
+          "my": "ညစာ"
+        }
+      },
+      {
+        "kanji": "を",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "食べます。",
+        "furigana": "たべます",
+        "meanings": {
+          "en": "eat",
+          "my": "စားသည်"
+        }
+      }
+    ]
+  },
+  {
+    "kanji": {
+      "kanji": "仕事",
+      "furigana": "しごと",
+      "meanings": {
+        "en": "work",
+        "my": "အလုပ်"
+      },
+      "categories": ["N4", "Work"],
+      "partOfSpeech": "Noun",
+      "breakdown": [
+        {
+          "kanji": "仕",
+          "furigana": "し",
+          "meanings": {
+            "en": "serve",
+            "my": "ဝန်ဆောင်မှု"
+          }
+        },
+        {
+          "kanji": "事",
+          "furigana": "こと",
+          "meanings": {
+            "en": "thing",
+            "my": "ကိစ္စ"
+          }
+        }
+      ]
+    },
+    "fullSentence": "毎日仕事が忙しいです。",
+    "components": [
+      {
+        "kanji": "毎日",
+        "furigana": "まいにち",
+        "meanings": {
+          "en": "every day",
+          "my": "တစ်နေ့လျှင်"
+        }
+      },
+      {
+        "kanji": "仕事",
+        "furigana": "しごと",
+        "meanings": {
+          "en": "work",
+          "my": "အလုပ်"
+        }
+      },
+      {
+        "kanji": "が",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "忙しい",
+        "furigana": "いそがしい",
+        "meanings": {
+          "en": "busy",
+          "my": "အလုပ်များသော"
+        }
+      },
+      {
+        "kanji": "です。",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      }
+    ]
+  },
+  {
+    "kanji": {
+      "kanji": "天気",
+      "furigana": "てんき",
+      "meanings": {
+        "en": "weather",
+        "my": "ရာသီဥတု"
+      },
+      "categories": ["N5", "Nature"],
+      "partOfSpeech": "Noun",
+      "breakdown": [
+        {
+          "kanji": "天",
+          "furigana": "てん",
+          "meanings": {
+            "en": "sky",
+            "my": "ကောင်းကင်"
+          }
+        },
+        {
+          "kanji": "気",
+          "furigana": "き",
+          "meanings": {
+            "en": "mood",
+            "my": "စိတ်ခံစားမှု"
+          }
+        }
+      ]
+    },
+    "fullSentence": "今日の天気は良いです。",
+    "components": [
+      {
+        "kanji": "今日",
+        "furigana": "きょう",
+        "meanings": {
+          "en": "today",
+          "my": "ယနေ့"
+        }
+      },
+      {
+        "kanji": "の",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "天気",
+        "furigana": "てんき",
+        "meanings": {
+          "en": "weather",
+          "my": "ရာသီဥတု"
+        }
+      },
+      {
+        "kanji": "は",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "良い",
+        "furigana": "よい",
+        "meanings": {
+          "en": "good",
+          "my": "ကောင်းသော"
+        }
+      },
+      {
+        "kanji": "です。",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      }
+    ]
+  },
+  {
+    "kanji": {
+      "kanji": "名前",
+      "furigana": "なまえ",
+      "meanings": {
+        "en": "name",
+        "my": "အမည်"
+      },
+      "categories": ["N5", "General"],
+      "partOfSpeech": "Noun",
+      "breakdown": [
+        {
+          "kanji": "名",
+          "furigana": "な",
+          "meanings": {
+            "en": "name",
+            "my": "အမည်"
+          }
+        },
+        {
+          "kanji": "前",
+          "furigana": "まえ",
+          "meanings": {
+            "en": "front",
+            "my": "ရှေ့"
+          }
+        }
+      ]
+    },
+    "fullSentence": "私の名前は山田です。",
+    "components": [
+      {
+        "kanji": "私",
+        "furigana": "わたし",
+        "meanings": {
+          "en": "I",
+          "my": "ကျွန်တော်/ကျွန်မ"
+        }
+      },
+      {
+        "kanji": "の",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "名前",
+        "furigana": "なまえ",
+        "meanings": {
+          "en": "name",
+          "my": "အမည်"
+        }
+      },
+      {
+        "kanji": "は",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "山田",
+        "furigana": "やまだ",
+        "meanings": {
+          "en": "Yamada",
+          "my": "ယာမာဒါ"
+        }
+      },
+      {
+        "kanji": "です。",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      }
+    ]
+  },
+  {
+    "kanji": {
+      "kanji": "勉強",
+      "furigana": "べんきょう",
+      "meanings": {
+        "en": "study",
+        "my": "သင်ယူခြင်း"
+      },
+      "categories": ["N4", "Education"],
+      "partOfSpeech": "Noun",
+      "breakdown": [
+        {
+          "kanji": "勉",
+          "furigana": "べん",
+          "meanings": {
+            "en": "effort",
+            "my": "ကြိုးစားမှု"
+          }
+        },
+        {
+          "kanji": "強",
+          "furigana": "きょう",
+          "meanings": {
+            "en": "strong",
+            "my": "သန်မာသော"
+          }
+        }
+      ]
+    },
+    "fullSentence": "毎日勉強をします。",
+    "components": [
+      {
+        "kanji": "毎日",
+        "furigana": "まいにち",
+        "meanings": {
+          "en": "every day",
+          "my": "တစ်နေ့လျှင်"
+        }
+      },
+      {
+        "kanji": "勉強",
+        "furigana": "べんきょう",
+        "meanings": {
+          "en": "study",
+          "my": "သင်ယူခြင်း"
+        }
+      },
+      {
+        "kanji": "を",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "します。",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      }
+    ]
+  },
+  {
+    "kanji": {
+      "kanji": "休み",
+      "furigana": "やすみ",
+      "meanings": {
+        "en": "rest",
+        "my": "အနားယူခြင်း"
+      },
+      "categories": ["N4", "General"],
+      "partOfSpeech": "Noun",
+      "breakdown": [
+        {
+          "kanji": "休",
+          "furigana": "やす",
+          "meanings": {
+            "en": "rest",
+            "my": "အနားယူ"
+          }
+        }
+      ]
+    },
+    "fullSentence": "日曜日は休みです。",
+    "components": [
+      {
+        "kanji": "日曜日",
+        "furigana": "にちようび",
+        "meanings": {
+          "en": "Sunday",
+          "my": "တနင်္ဂနွေ"
+        }
+      },
+      {
+        "kanji": "は",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "休み",
+        "furigana": "やすみ",
+        "meanings": {
+          "en": "rest",
+          "my": "အနားယူခြင်း"
+        }
+      },
+      {
+        "kanji": "です。",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      }
+    ]
+  },
+  {
+      "kanji": {
+        "kanji": "電車",
+        "furigana": "でんしゃ",
+        "meanings": {
+          "en": "train",
+          "my": "ရထား"
+        },
+        "categories": ["N5", "Transport"],
+        "partOfSpeech": "Noun",
+        "breakdown": [
+          {
+            "kanji": "電",
+            "furigana": "でん",
+            "meanings": {
+              "en": "electricity",
+              "my": "လျှပ်စစ်"
+            }
+          },
+          {
+            "kanji": "車",
+            "furigana": "しゃ",
+            "meanings": {
+              "en": "vehicle",
+              "my": "ယာဉ်"
+            }
+          }
+        ]
+      },
+      "fullSentence": "私は毎朝電車で学校に行きます。",
+      "components": [
+        {
+          "kanji": "私",
+          "furigana": "わたし",
+          "meanings": {
+            "en": "I",
+            "my": "ကျွန်တော်/ကျွန်မ"
+          }
+        },
+        {
+          "kanji": "は",
+          "furigana": " ",
+          "meanings": {
+            "en": "",
+            "my": ""
+          }
+        },
+        {
+          "kanji": "毎朝",
+          "furigana": "まいあさ",
+          "meanings": {
+            "en": "every morning",
+            "my": "နံနက်တိုင်း"
+          }
+        },
+        {
+          "kanji": "電車",
+          "furigana": "でんしゃ",
+          "meanings": {
+            "en": "train",
+            "my": "ရထား"
+          }
+        },
+        {
+          "kanji": "で",
+          "furigana": " ",
+          "meanings": {
+            "en": "",
+            "my": ""
+          }
+        },
+        {
+          "kanji": "学校",
+          "furigana": "がっこう",
+          "meanings": {
+            "en": "school",
+            "my": "ကျောင်း"
+          }
+        },
+        {
+          "kanji": "に",
+          "furigana": " ",
+          "meanings": {
+            "en": "",
+            "my": ""
+          }
+        },
+        {
+          "kanji": "行きます。",
+          "furigana": "いきます",
+          "meanings": {
+            "en": "go",
+            "my": "သွားသည်"
+          }
+        }
+      ]
+    },
+    {
+      "kanji": {
+        "kanji": "本",
+        "furigana": "ほん",
+        "meanings": {
+          "en": "book",
+          "my": "စာအုပ်"
+        },
+        "categories": ["N5", "General"],
+        "partOfSpeech": "Noun",
+        "breakdown": [
+          {
+            "kanji": "本",
+            "furigana": "ほん",
+            "meanings": {
+              "en": "book",
+              "my": "စာအုပ်"
+            }
+          }
+        ]
+      },
+      "fullSentence": "私は本を読むのが好きです。",
+      "components": [
+        {
+          "kanji": "私",
+          "furigana": "わたし",
+          "meanings": {
+            "en": "I",
+            "my": "ကျွန်တော်/ကျွန်မ"
+          }
+        },
+        {
+          "kanji": "は",
+          "furigana": " ",
+          "meanings": {
+            "en": "",
+            "my": ""
+          }
+        },
+        {
+          "kanji": "本",
+          "furigana": "ほん",
+          "meanings": {
+            "en": "book",
+            "my": "စာအုပ်"
+          }
+        },
+        {
+          "kanji": "を",
+          "furigana": " ",
+          "meanings": {
+            "en": "",
+            "my": ""
+          }
+        },
+        {
+          "kanji": "読む",
+          "furigana": "よむ",
+          "meanings": {
+            "en": "to read",
+            "my": "ဖတ်သည်"
+          }
+        },
+        {
+          "kanji": "の",
+          "furigana": " ",
+          "meanings": {
+            "en": "",
+            "my": ""
+          }
+        },
+        {
+          "kanji": "が",
+          "furigana": " ",
+          "meanings": {
+            "en": "",
+            "my": ""
+          }
+        },
+        {
+          "kanji": "好き",
+          "furigana": "すき",
+          "meanings": {
+            "en": "like",
+            "my": "ကြိုက်သည်"
+          }
+        },
+        {
+          "kanji": "です。",
+          "furigana": " ",
+          "meanings": {
+            "en": "",
+            "my": ""
+          }
+        }
+      ]
+    },
+    {
+      "kanji": {
+        "kanji": "飲み物",
+        "furigana": "のみもの",
+        "meanings": {
+          "en": "drink",
+          "my": "သောက်စရာ"
+        },
+        "categories": ["N5", "Food"],
+        "partOfSpeech": "Noun",
+        "breakdown": [
+          {
+            "kanji": "飲",
+            "furigana": "の",
+            "meanings": {
+              "en": "drink",
+              "my": "သောက်သည်"
+            }
+          },
+          {
+            "kanji": "物",
+            "furigana": "もの",
+            "meanings": {
+              "en": "thing",
+              "my": "အရာ"
+            }
+          }
+        ]
+      },
+      "fullSentence": "冷たい飲み物が欲しいです。",
+      "components": [
+        {
+          "kanji": "冷たい",
+          "furigana": "つめたい",
+          "meanings": {
+            "en": "cold",
+            "my": "အေးသော"
+          }
+        },
+        {
+          "kanji": "飲み物",
+          "furigana": "のみもの",
+          "meanings": {
+            "en": "drink",
+            "my": "သောက်စရာ"
+          }
+        },
+        {
+          "kanji": "が",
+          "furigana": " ",
+          "meanings": {
+            "en": "",
+            "my": ""
+          }
+        },
+        {
+          "kanji": "欲しい",
+          "furigana": "ほしい",
+          "meanings": {
+            "en": "want",
+            "my": "လိုချင်သည်"
+          }
+        },
+        {
+          "kanji": "です。",
+          "furigana": " ",
+          "meanings": {
+            "en": "",
+            "my": ""
+          }
+        }
+      ]
+    },
+    {
+      "kanji": {
+        "kanji": "空港",
+        "furigana": "くうこう",
+        "meanings": {
+          "en": "airport",
+          "my": "လေဆိပ်"
+        },
+        "categories": ["N4", "Transport"],
+        "partOfSpeech": "Noun",
+        "breakdown": [
+          {
+            "kanji": "空",
+            "furigana": "くう",
+            "meanings": {
+              "en": "sky/empty",
+              "my": "ကောင်းကင်/ဗလာ"
+            }
+          },
+          {
+            "kanji": "港",
+            "furigana": "こう",
+            "meanings": {
+              "en": "harbor",
+              "my": "ဆိပ်ကမ်း"
+            }
+          }
+        ]
+      },
+      "fullSentence": "空港までタクシー で 行きます。",
+      "components": [
+        {
+          "kanji": "空港",
+          "furigana": "くうこう",
+          "meanings": {
+            "en": "airport",
+            "my": "လေဆိပ်"
+          }
+        },
+        {
+          "kanji": "まで",
+          "furigana": " ",
+          "meanings": {
+            "en": "until/to",
+            "my": "အထိ"
+          }
+        },
+        {
+          "kanji": "タクシー",
+          "furigana": " ",
+          "meanings": {
+            "en": "taxi",
+            "my": "တက္ကစီ"
+          }
+        },
+        {
+          "kanji": "で",
+          "furigana": " ",
+          "meanings": {
+            "en": "by",
+            "my": "ဖြင့်"
+          }
+        },
+        {
+          "kanji": "行きます。",
+          "furigana": "いきます",
+          "meanings": {
+            "en": "go",
+            "my": "သွားသည်"
+          }
+        }
+      ]
+    },
+    {
+      "kanji": {
+        "kanji": "電話",
+        "furigana": "でんわ",
+        "meanings": {
+          "en": "telephone",
+          "my": "ဖုန်း"
+        },
+        "categories": ["N5", "Communication"],
+        "partOfSpeech": "Noun",
+        "breakdown": [
+          {
+            "kanji": "電",
+            "furigana": "でん",
+            "meanings": {
+              "en": "electric",
+              "my": "လျှပ်စစ်"
+            }
+          },
+          {
+            "kanji": "話",
+            "furigana": "わ",
+            "meanings": {
+              "en": "talk",
+              "my": "ပြောဆိုခြင်း"
+            }
+          }
+        ]
+      },
+      "fullSentence": "母に電話をかけました。",
+      "components": [
+        {
+          "kanji": "母",
+          "furigana": "はは",
+          "meanings": {
+            "en": "mother",
+            "my": "အမေ"
+          }
+        },
+        {
+          "kanji": "に",
+          "furigana": " ",
+          "meanings": {
+            "en": "",
+            "my": ""
+          }
+        },
+        {
+          "kanji": "電話",
+          "furigana": "でんわ",
+          "meanings": {
+            "en": "phone",
+            "my": "ဖုန်း"
+          }
+        },
+        {
+          "kanji": "を",
+          "furigana": " ",
+          "meanings": {
+            "en": "",
+            "my": ""
+          }
+        },
+        {
+          "kanji": "かけました。",
+          "furigana": "かけました",
+          "meanings": {
+            "en": "called",
+            "my": "ဖုန်းခေါ်ခဲ့သည်"
+          }
+        }
+      ]
+    },
+    {
+      "kanji": {
+        "kanji": "病院",
+        "furigana": "びょういん",
+        "meanings": {
+          "en": "hospital",
+          "my": "ဆေးရုံ"
+        },
+        "categories": ["N5", "Health"],
+        "partOfSpeech": "Noun",
+        "breakdown": [
+          {
+            "kanji": "病",
+            "furigana": "びょう",
+            "meanings": {
+              "en": "illness",
+              "my": "ရောဂါ"
+            }
+          },
+          {
+            "kanji": "院",
+            "furigana": "いん",
+            "meanings": {
+              "en": "institution",
+              "my": "အဖွဲ့အစည်း"
+            }
+          }
+        ]
+      },
+      "fullSentence": "彼は病院に行きました。",
+      "components": [
+        {
+          "kanji": "彼",
+          "furigana": "かれ",
+          "meanings": {
+            "en": "he",
+            "my": "သူ (ယောကျ်ား)"
+          }
+        },
+        {
+          "kanji": "は",
+          "furigana": " ",
+          "meanings": {
+            "en": "",
+            "my": ""
+          }
+        },
+        {
+          "kanji": "病院",
+          "furigana": "びょういん",
+          "meanings": {
+            "en": "hospital",
+            "my": "ဆေးရုံ"
+          }
+        },
+        {
+          "kanji": "に",
+          "furigana": " ",
+          "meanings": {
+            "en": "",
+            "my": ""
+          }
+        },
+        {
+          "kanji": "行きました。",
+          "furigana": "いきました",
+          "meanings": {
+            "en": "went",
+            "my": "သွားခဲ့သည်"
+          }
+        }
+      ]
+    },
+    {
+      "kanji": {
+        "kanji": "公園",
+        "furigana": "こうえん",
+        "meanings": {
+          "en": "park",
+          "my": "ပန်းခြံ"
+        },
+        "categories": ["N5", "Places"],
+        "partOfSpeech": "Noun",
+        "breakdown": [
+          {
+            "kanji": "公",
+            "furigana": "こう",
+            "meanings": {
+              "en": "public",
+              "my": "အများသူငယ်ချင်း"
+            }
+          },
+          {
+            "kanji": "園",
+            "furigana": "えん",
+            "meanings": {
+              "en": "garden",
+              "my": "ဥယျာဉ်"
+            }
+          }
+        ]
+      },
+      "fullSentence": "子どもたちは公園で遊んでいます。",
+      "components": [
+        {
+          "kanji": "子ども たち",
+          "furigana": "こどもたち",
+          "meanings": {
+            "en": "children",
+            "my": "ကလေးများ"
+          }
+        },
+        {
+          "kanji": "は",
+          "furigana": " ",
+          "meanings": {
+            "en": "",
+            "my": ""
+          }
+        },
+        {
+          "kanji": "公園",
+          "furigana": "こうえん",
+          "meanings": {
+            "en": "park",
+            "my": "ပန်းခြံ"
+          }
+        },
+        {
+          "kanji": "で",
+          "furigana": " ",
+          "meanings": {
+            "en": "at",
+            "my": "တွင်"
+          }
+        },
+        {
+          "kanji": "遊んでいます。",
+          "furigana": "あそんでいます",
+          "meanings": {
+            "en": "playing",
+            "my": "ကစားနေသည်"
+          }
+        }
+      ]
+    },
+    {
+      "kanji": {
+        "kanji": "電車",
+        "furigana": "でんしゃ",
+        "meanings": {
+          "en": "train",
+          "my": "ရထား"
+        },
+        "categories": ["N5", "Transport"],
+        "partOfSpeech": "Noun",
+        "breakdown": [
+          {
+            "kanji": "電",
+            "furigana": "でん",
+            "meanings": {
+              "en": "electric",
+              "my": "လျှပ်စစ်"
+            }
+          },
+          {
+            "kanji": "車",
+            "furigana": "しゃ",
+            "meanings": {
+              "en": "vehicle",
+              "my": "ယာဉ်"
+            }
+          }
+        ]
+      },
+      "fullSentence": "電車で東京に行きます。",
+      "components": [
+        {
+          "kanji": "電車",
+          "furigana": "でんしゃ",
+          "meanings": {
+            "en": "train",
+            "my": "ရထား"
+          }
+        },
+        {
+          "kanji": "で",
+          "furigana": " ",
+          "meanings": {
+            "en": "by",
+            "my": "ဖြင့်"
+          }
+        },
+        {
+          "kanji": "東京",
+          "furigana": "とうきょう",
+          "meanings": {
+            "en": "Tokyo",
+            "my": "တိုကျို"
+          }
+        },
+        {
+          "kanji": "に",
+          "furigana": " ",
+          "meanings": {
+            "en": "to",
+            "my": "သို့"
+          }
+        },
+        {
+          "kanji": "行きます。",
+          "furigana": "いきます",
+          "meanings": {
+            "en": "go",
+            "my": "သွားသည်"
+          }
+        }
+      ]
+    },
+    {
+      "kanji": {
+        "kanji": "写真",
+        "furigana": "しゃしん",
+        "meanings": {
+          "en": "photo",
+          "my": "ဓာတ်ပုံ"
+        },
+        "categories": ["N4", "General"],
+        "partOfSpeech": "Noun",
+        "breakdown": [
+          {
+            "kanji": "写",
+            "furigana": "しゃ",
+            "meanings": {
+              "en": "copy",
+              "my": "မိတ္တူ"
+            }
+          },
+          {
+            "kanji": "真",
+            "furigana": "しん",
+            "meanings": {
+              "en": "truth",
+              "my": "အမှန်"
+            }
+          }
+        ]
+      },
+      "fullSentence": "旅行の写真を見せてください。",
+      "components": [
+        {
+          "kanji": "旅行",
+          "furigana": "りょこう",
+          "meanings": {
+            "en": "travel",
+            "my": "ခရီးသွားခြင်း"
+          }
+        },
+        {
+          "kanji": "の",
+          "furigana": " ",
+          "meanings": {
+            "en": "of",
+            "my": "၏"
+          }
+        },
+        {
+          "kanji": "写真",
+          "furigana": "しゃしん",
+          "meanings": {
+            "en": "photo",
+            "my": "ဓာတ်ပုံ"
+          }
+        },
+        {
+          "kanji": "を",
+          "furigana": " ",
+          "meanings": {
+            "en": "",
+            "my": ""
+          }
+        },
+        {
+          "kanji": "見せて",
+          "furigana": "みせて",
+          "meanings": {
+            "en": "show",
+            "my": "ပြပါ"
+          }
+        },
+        {
+          "kanji": "ください。",
+          "furigana": " ",
+          "meanings": {
+            "en": "please",
+            "my": "ကျေးဇူးပြု၍"
+          }
+        }
+      ]
+    },
+    {
+    "kanji": {
+      "kanji": "音楽",
+      "furigana": "おんがく",
+      "meanings": {
+        "en": "music",
+        "my": "ဂီတ"
+      },
+      "categories": ["N5", "Culture"],
+      "partOfSpeech": "Noun",
+      "breakdown": [
+        {
+          "kanji": "音",
+          "furigana": "おん",
+          "meanings": {
+            "en": "sound",
+            "my": "အသံ"
+          }
+        },
+        {
+          "kanji": "楽",
+          "furigana": "がく",
+          "meanings": {
+            "en": "pleasure",
+            "my": "ပျော်ရွှင်မှု"
+          }
+        }
+      ]
+    },
+    "fullSentence": "私は音楽を聞くのが好きです。",
+    "components": [
+      {
+        "kanji": "私",
+        "furigana": "わたし",
+        "meanings": {
+          "en": "I",
+          "my": "ကျွန်တော်/ကျွန်မ"
+        }
+      },
+      {
+        "kanji": "は",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "音楽",
+        "furigana": "おんがく",
+        "meanings": {
+          "en": "music",
+          "my": "ဂီတ"
+        }
+      },
+      {
+        "kanji": "を",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "聞く",
+        "furigana": "きく",
+        "meanings": {
+          "en": "to listen",
+          "my": "နားထောင်သည်"
+        }
+      },
+      {
+        "kanji": "の",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "が",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "好き",
+        "furigana": "すき",
+        "meanings": {
+          "en": "like",
+          "my": "ကြိုက်သည်"
+        }
+      },
+      {
+        "kanji": "です。",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      }
+    ]
+  },
+  {
+    "kanji": {
+      "kanji": "旅行",
+      "furigana": "りょこう",
+      "meanings": {
+        "en": "travel",
+        "my": "ခရီးသွားခြင်း"
+      },
+      "categories": ["N4", "General"],
+      "partOfSpeech": "Noun",
+      "breakdown": [
+        {
+          "kanji": "旅",
+          "furigana": "りょ",
+          "meanings": {
+            "en": "journey",
+            "my": "ခရီး"
+          }
+        },
+        {
+          "kanji": "行",
+          "furigana": "こう",
+          "meanings": {
+            "en": "go",
+            "my": "သွားသည်"
+          }
+        }
+      ]
+    },
+    "fullSentence": "夏に友達と旅行に行きます。",
+    "components": [
+      {
+        "kanji": "夏",
+        "furigana": "なつ",
+        "meanings": {
+          "en": "summer",
+          "my": "နွေရာသီ"
+        }
+      },
+      {
+        "kanji": "に",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "友達",
+        "furigana": "ともだち",
+        "meanings": {
+          "en": "friend",
+          "my": "သူငယ်ချင်း"
+        }
+      },
+      {
+        "kanji": "と",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "旅行",
+        "furigana": "りょこう",
+        "meanings": {
+          "en": "travel",
+          "my": "ခရီးသွားခြင်း"
+        }
+      },
+      {
+        "kanji": "に",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "行きます。",
+        "furigana": "いきます",
+        "meanings": {
+          "en": "go",
+          "my": "သွားသည်"
+        }
+      }
+    ]
+  },
+  {
+    "kanji": {
+      "kanji": "簡単",
+      "furigana": "かんたん",
+      "meanings": {
+        "en": "easy",
+        "my": "လွယ်ကူသော"
+      },
+      "categories": ["N4", "General"],
+      "partOfSpeech": "Adjective",
+      "breakdown": [
+        {
+          "kanji": "簡",
+          "furigana": "かん",
+          "meanings": {
+            "en": "simple",
+            "my": "ရိုးရှင်းသော"
+          }
+        },
+        {
+          "kanji": "単",
+          "furigana": "たん",
+          "meanings": {
+            "en": "single",
+            "my": "တစ်ခုတည်း"
+          }
+        }
+      ]
+    },
+    "fullSentence": "この問題は簡単です。",
+    "components": [
+      {
+        "kanji": "この",
+        "furigana": " ",
+        "meanings": {
+          "en": "this",
+          "my": "ဤ"
+        }
+      },
+      {
+        "kanji": "問題",
+        "furigana": "もんだい",
+        "meanings": {
+          "en": "problem",
+          "my": "ပြဿနာ"
+        }
+      },
+      {
+        "kanji": "は",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "簡単",
+        "furigana": "かんたん",
+        "meanings": {
+          "en": "easy",
+          "my": "လွယ်ကူသော"
+        }
+      },
+      {
+        "kanji": "です。",
+        "furigana": " ",
+        "meanings": {
+          "en": "",
+          "my": ""
+        }
+      }
+    ]
+  },
+  {
+    "kanji": {
+      "kanji": "สวัสดี",
+      "furigana": "sà-wàt-dee",
+      "meanings": {
+        "en": "hello",
+        "my": "မင်္ဂလာပါ"
+      },
+      "categories": ["Beginner", "Greetings"],
+      "partOfSpeech": "Interjection",
+      "breakdown": [
+        {
+          "kanji": "สวัสดี",
+          "furigana": "sà-wàt-dee",
+          "meanings": {
+            "en": "hello",
+            "my": "မင်္ဂလာပါ"
+          }
+        }
+      ]
+    },
+    "fullSentence": "สวัสดีครับผมชื่อวันชัย",
+    "components": [
+      {
+        "kanji": "สวัสดี",
+        "furigana": "sà-wàt-dee",
+        "meanings": {
+          "en": "hello",
+          "my": "မင်္ဂလာပါ"
+        }
+      },
+      {
+        "kanji": "ครับ",
+        "furigana": "khráp",
+        "meanings": {
+          "en": "(polite particle, male)",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "ผม",
+        "furigana": "phǒm",
+        "meanings": {
+          "en": "I (male)",
+          "my": "ကျွန်တော်"
+        }
+      },
+      {
+        "kanji": "ชื่อ",
+        "furigana": "chêu",
+        "meanings": {
+          "en": "name",
+          "my": "အမည်"
+        }
+      },
+      {
+        "kanji": "วันชัย",
+        "furigana": "wan-chai",
+        "meanings": {
+          "en": "Wanchai (name)",
+          "my": "ဝမ်ချိုင်း"
+        }
+      }
+    ]
+  },
+  {
+    "kanji": {
+      "kanji": "ข้าว",
+      "furigana": "khâo",
+      "meanings": {
+        "en": "rice",
+        "my": "ထမင်း"
+      },
+      "categories": ["Beginner", "Food"],
+      "partOfSpeech": "Noun",
+      "breakdown": [
+        {
+          "kanji": "ข้าว",
+          "furigana": "khâo",
+          "meanings": {
+            "en": "rice",
+            "my": "ထမင်း"
+          }
+        }
+      ]
+    },
+    "fullSentence": "ฉันกินข้าวทุกวัน",
+    "components": [
+      {
+        "kanji": "ฉัน",
+        "furigana": "chǎn",
+        "meanings": {
+          "en": "I",
+          "my": "ကျွန်မ"
+        }
+      },
+      {
+        "kanji": "กิน",
+        "furigana": "kin",
+        "meanings": {
+          "en": "eat",
+          "my": "စားသည်"
+        }
+      },
+      {
+        "kanji": "ข้าว",
+        "furigana": "khâo",
+        "meanings": {
+          "en": "rice",
+          "my": "ထမင်း"
+        }
+      },
+      {
+        "kanji": "ทุกวัน",
+        "furigana": "thúk-wan",
+        "meanings": {
+          "en": "every day",
+          "my": "နေ့တိုင်း"
+        }
+      }
+    ]
+  },
+  {
+    "kanji": {
+      "kanji": "โรงเรียน",
+      "furigana": "rong-ríen",
+      "meanings": {
+        "en": "school",
+        "my": "ကျောင်း"
+      },
+      "categories": ["Beginner", "Education"],
+      "partOfSpeech": "Noun",
+      "breakdown": [
+        {
+          "kanji": "โรง",
+          "furigana": "rong",
+          "meanings": {
+            "en": "building",
+            "my": "အဆောက်အအုံ"
+          }
+        },
+        {
+          "kanji": "เรียน",
+          "furigana": "ríen",
+          "meanings": {
+            "en": "study",
+            "my": "သင်ယူခြင်း"
+          }
+        }
+      ]
+    },
+    "fullSentence": "ฉันไปโรงเรียนด้วยรถไฟ",
+    "components": [
+      {
+        "kanji": "ฉัน",
+        "furigana": "chǎn",
+        "meanings": {
+          "en": "I",
+          "my": "ကျွန်မ"
+        }
+      },
+      {
+        "kanji": "ไป",
+        "furigana": "pai",
+        "meanings": {
+          "en": "go",
+          "my": "သွားသည်"
+        }
+      },
+      {
+        "kanji": "โรงเรียน",
+        "furigana": "rong-ríen",
+        "meanings": {
+          "en": "school",
+          "my": "ကျောင်း"
+        }
+      },
+      {
+        "kanji": "ด้วย",
+        "furigana": "dûai",
+        "meanings": {
+          "en": "by/with",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "รถไฟ",
+        "furigana": "rót-fai",
+        "meanings": {
+          "en": "train",
+          "my": "ရထား"
+        }
+      }
+    ]
+  },
+  {
+    "kanji": {
+      "kanji": "น้ำ",
+      "furigana": "nám",
+      "meanings": {
+        "en": "water",
+        "my": "ရေ"
+      },
+      "categories": ["Beginner", "Daily Life"],
+      "partOfSpeech": "Noun",
+      "breakdown": [
+        {
+          "kanji": "น้ำ",
+          "furigana": "nám",
+          "meanings": {
+            "en": "water",
+            "my": "ရေ"
+          }
+        }
+      ]
+    },
+    "fullSentence": "ฉัน ดื่ม น้ำ ทุกวัน",
+    "components": [
+      {
+        "kanji": "ฉัน",
+        "furigana": "chǎn",
+        "meanings": {
+          "en": "I",
+          "my": "ကျွန်မ"
+        }
+      },
+      {
+        "kanji": "ดื่ม",
+        "furigana": "dùem",
+        "meanings": {
+          "en": "drink",
+          "my": "သောက်သည်"
+        }
+      },
+      {
+        "kanji": "น้ำ",
+        "furigana": "nám",
+        "meanings": {
+          "en": "water",
+          "my": "ရေ"
+        }
+      },
+      {
+        "kanji": "ทุกวัน",
+        "furigana": "thúk-wan",
+        "meanings": {
+          "en": "every day",
+          "my": "နေ့တိုင်း"
+        }
+      }
+    ]
+  },
+  {
+    "kanji": {
+      "kanji": "ครอบครัว",
+      "furigana": "khrôp-khrua",
+      "meanings": {
+        "en": "family",
+        "my": "မိသားစု"
+      },
+      "categories": ["Beginner", "Social"],
+      "partOfSpeech": "Noun",
+      "breakdown": [
+        {
+          "kanji": "ครอบ",
+          "furigana": "khrôp",
+          "meanings": {
+            "en": "cover",
+            "my": "ဖုံးအုပ်"
+          }
+        },
+        {
+          "kanji": "ครัว",
+          "furigana": "khrua",
+          "meanings": {
+            "en": "kitchen",
+            "my": "မီးဖိုချောင်"
+          }
+        }
+      ]
+    },
+    "fullSentence": "ครอบครัว ของ ฉัน ใหญ่",
+    "components": [
+      {
+        "kanji": "ครอบครัว",
+        "furigana": "khrôp-khrua",
+        "meanings": {
+          "en": "family",
+          "my": "မိသားစု"
+        }
+      },
+      {
+        "kanji": "ของ",
+        "furigana": "khǒng",
+        "meanings": {
+          "en": "of",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "ฉัน",
+        "furigana": "chǎn",
+        "meanings": {
+          "en": "I",
+          "my": "ကျွန်မ"
+        }
+      },
+      {
+        "kanji": "ใหญ่",
+        "furigana": "yài",
+        "meanings": {
+          "en": "big",
+          "my": "ကြီးသော"
+        }
+      }
+    ]
+  },
+  {
+    "kanji": {
+      "kanji": "เพื่อน",
+      "furigana": "phûean",
+      "meanings": {
+        "en": "friend",
+        "my": "သူငယ်ချင်း"
+      },
+      "categories": ["Beginner", "Social"],
+      "partOfSpeech": "Noun",
+      "breakdown": [
+        {
+          "kanji": "เพื่อน",
+          "furigana": "phûean",
+          "meanings": {
+            "en": "friend",
+            "my": "သူငယ်ချင်း"
+          }
+        }
+      ]
+    },
+    "fullSentence": "ฉัน ไป ตลาด กับ เพื่อน",
+    "components": [
+      {
+        "kanji": "ฉัน",
+        "furigana": "chǎn",
+        "meanings": {
+          "en": "I",
+          "my": "ကျွန်မ"
+        }
+      },
+      {
+        "kanji": "ไป",
+        "furigana": "pai",
+        "meanings": {
+          "en": "go",
+          "my": "သွားသည်"
+        }
+      },
+      {
+        "kanji": "ตลาด",
+        "furigana": "talàat",
+        "meanings": {
+          "en": "market",
+          "my": "ဈေး"
+        }
+      },
+      {
+        "kanji": "กับ",
+        "furigana": "kàp",
+        "meanings": {
+          "en": "with",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "เพื่อน",
+        "furigana": "phûean",
+        "meanings": {
+          "en": "friend",
+          "my": "သူငယ်ချင်း"
+        }
+      }
+    ]
+  }
+]
