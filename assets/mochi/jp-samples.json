@@ -204,5 +204,203 @@
         }
       }
     ]
+  },
+  {
+    "language": "th",
+    "kanji": {
+      "kanji": "โรงแรม",
+      "furigana": "rong-raem",
+      "meanings": {
+        "en": "hotel",
+        "my": "ဟိုတယ်"
+      },
+      "categories": ["Beginner", "Travel"],
+      "partOfSpeech": "Noun",
+      "breakdown": [
+        {
+          "kanji": "โรง",
+          "furigana": "rong",
+          "meanings": {
+            "en": "building",
+            "my": "အဆောက်အအုံ"
+          }
+        },
+        {
+          "kanji": "แรม",
+          "furigana": "raem",
+          "meanings": {
+            "en": "stay overnight",
+            "my": "တညအိပ်ခြင်း"
+          }
+        }
+      ]
+    },
+    "fullSentence": "ฉัน พัก ที่ โรงแรม ใหญ่",
+    "components": [
+      {
+        "kanji": "ฉัน",
+        "furigana": "chǎn",
+        "meanings": {
+          "en": "I",
+          "my": "ကျွန်မ"
+        }
+      },
+      {
+        "kanji": "พัก",
+        "furigana": "phák",
+        "meanings": {
+          "en": "stay",
+          "my": "နေထိုင်သည်"
+        }
+      },
+      {
+        "kanji": "ที่",
+        "furigana": "thîi",
+        "meanings": {
+          "en": "at",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "โรงแรม",
+        "furigana": "rong-raem",
+        "meanings": {
+          "en": "hotel",
+          "my": "ဟိုတယ်"
+        }
+      },
+      {
+        "kanji": "ใหญ่",
+        "furigana": "yài",
+        "meanings": {
+          "en": "big",
+          "my": "ကြီးသော"
+        }
+      }
+    ]
+  },
+  {
+    "language": "th",
+    "kanji": {
+      "kanji": "ซื้อ",
+      "furigana": "súe",
+      "meanings": {
+        "en": "buy",
+        "my": "ဝယ်သည်"
+      },
+      "categories": ["Beginner", "Daily Life"],
+      "partOfSpeech": "Verb",
+      "breakdown": [
+        {
+          "kanji": "ซื้อ",
+          "furigana": "súe",
+          "meanings": {
+            "en": "buy",
+            "my": "ဝယ်သည်"
+          }
+        }
+      ]
+    },
+    "fullSentence": "ฉัน ซื้อ ผัก ที่ ตลาด",
+    "components": [
+      {
+        "kanji": "ฉัน",
+        "furigana": "chǎn",
+        "meanings": {
+          "en": "I",
+          "my": "ကျွန်မ"
+        }
+      },
+      {
+        "kanji": "ซื้อ",
+        "furigana": "súe",
+        "meanings": {
+          "en": "buy",
+          "my": "ဝယ်သည်"
+        }
+      },
+      {
+        "kanji": "ผัก",
+        "furigana": "phàk",
+        "meanings": {
+          "en": "vegetable",
+          "my": "ဟင်းသီးဟင်းရွက်"
+        }
+      },
+      {
+        "kanji": "ที่",
+        "furigana": "thîi",
+        "meanings": {
+          "en": "at",
+          "my": ""
+        }
+      },
+      {
+        "kanji": "ตลาด",
+        "furigana": "talàat",
+        "meanings": {
+          "en": "market",
+          "my": "ဈေး"
+        }
+      }
+    ]
+  },
+  {
+    "language": "th",
+    "kanji": {
+      "kanji": "สวย",
+      "furigana": "sǔai",
+      "meanings": {
+        "en": "beautiful",
+        "my": "လှသော"
+      },
+      "categories": ["Beginner", "Adjective"],
+      "partOfSpeech": "Adjective",
+      "breakdown": [
+        {
+          "kanji": "สวย",
+          "furigana": "sǔai",
+          "meanings": {
+            "en": "beautiful",
+            "my": "လှသော"
+          }
+        }
+      ]
+    },
+    "fullSentence": "ดอกไม้ นี่ สวย มาก",
+    "components": [
+      {
+        "kanji": "ดอกไม้",
+        "furigana": "dòk-mái",
+        "meanings": {
+          "en": "flower",
+          "my": "ပန်းသီး"
+        }
+      },
+      {
+        "kanji": "นี่",
+        "furigana": "nîi",
+        "meanings": {
+          "en": "this",
+          "my": "ဤ"
+        }
+      },
+      {
+        "kanji": "สวย",
+        "furigana": "sǔai",
+        "meanings": {
+          "en": "beautiful",
+          "my": "လှသော"
+        }
+      },
+      {
+        "kanji": "มาก",
+        "furigana": "mâak",
+        "meanings": {
+          "en": "very",
+          "my": "အလွန်"
+        }
+      }
+    ]
   }
 ]
